@@ -23,5 +23,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tafyben&show_icons=true&locale=en&layout=compact" alt="tafyben" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tafyben&" alt="tafyben" /></p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tafyben)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tafyben&)](https://git.io/streak-stats)
 
