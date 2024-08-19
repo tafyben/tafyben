@@ -22,6 +22,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tafyben&show_icons=true&locale=en&layout=compact" alt="tafyben" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=tafyben&" alt="tafyben" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=tafyben%26" alt="tafyben" /></p>
 
 
