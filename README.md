@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tafyben" alt="tafyben" /></a> </p>
 
-- 🔭 I’m currently working on **Doctor appointment system**
+- 🔭 I’m currently working on **blogging system**
 
 - 🌱 I’m currently learning **Python,Django, flask, vue js**
 
@@ -22,6 +22,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tafyben&show_icons=true&locale=en&layout=compact" alt="tafyben" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=tafyben1" alt="tafyben" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tafyben1" alt="GitHub Streak" /></a>
 
 
